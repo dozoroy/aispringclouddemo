@@ -16,6 +16,8 @@
         <module>client</module>
         <module>user</module>
         <module>account</module>
+        <module>zipkin</module>
+        <module>zipkinclient</module>
     </modules>
 
 
